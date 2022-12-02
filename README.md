@@ -52,6 +52,6 @@ For Acces Image on android Emulator if emulator dont have any image  you must dr
 
 -go to images
 
--you fill find the drag image on the downloads folder click on the image and then the image will be shown in the gallery os you can acces from the  app
+-you fill find the drag image on the downloads folder click on the image and then the image will be shown in the gallery os you can acces from the app
 
 
