@@ -1,5 +1,6 @@
 # WhatsapClone-
-
+ Instruction for opening 
+ 
 1. Installation
 
 On the command prompt run the following commands
